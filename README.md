@@ -1,6 +1,7 @@
 # Sistema de Banco em PHP
 
 Este repositório contém um sistema de banco desenvolvido em PHP.
+Foi usado para aprendizagem de POO (Programação Orientada a Objetos)
 
 ## Descrição
 
