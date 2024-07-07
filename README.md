@@ -9,9 +9,9 @@ Este sistema permite realizar operações bancárias básicas, como criar contas
 
 ## Tecnologias Utilizadas
 
-[![PHP](https://www.php.net/images/logos/php-logo.svg)](https://www.php.net/)
-[![HTML](https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg)](https://www.w3.org/html/)
-[![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)](https://www.w3.org/Style/CSS/)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 <!-- Adicione outros logotipos de tecnologias usadas aqui -->
 
 ## Instalação
